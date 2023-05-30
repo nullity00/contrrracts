@@ -1,0 +1,20 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+cache_hardhat
+artifacts
+cache-zk
+artifacts-zk
+
+#Foundry files
+out
+cache
+.idea
+broadcast
+
